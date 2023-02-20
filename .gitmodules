@@ -1,0 +1,6 @@
+[submodule "src/uuv_simulator_20.04"]
+	path = src/uuv_simulator_20.04
+	url = https://github.com/lmartim4/uuv_simulator_20.04.git
+[submodule "src/Mandi2repo"]
+	path = src/Mandi2repo
+	url = https://github.com/lmartim4/Mandi2.git
