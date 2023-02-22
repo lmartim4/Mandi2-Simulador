@@ -15,10 +15,6 @@ Escolha a opção '1' para instalar o ROS completo
 
 <code>cd Mandi2-Simulador/</code>
 
-<code>git submodules init</code>
-
-<code>git submodules update</code>
-
 <code>catkin_init</code>
 
 <code>catkin_make //5 vezes até dar certo</code>
