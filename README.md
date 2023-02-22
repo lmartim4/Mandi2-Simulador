@@ -4,7 +4,7 @@
 Ubuntu 20.04 LTS, Ros Noetic e Catkin
 
 
-<code>git clone https://github.com/lmartim4/Mandi2-Simulador-Completo.git</code>
+<code>git clone https://github.com/lmartim4/Mandi2-Simulador.git</code>
 
 <code>git submodules init</code>
 
