@@ -17,6 +17,6 @@ Escolha a opção '1' para instalar o ROS completo
 
 <code>catkin_make //5 vezes até dar certo</code>
 
-<code>source devel/setup.bash</code>
+<code>source devel/setup.bash</code> //Esse comando deve ser executado sempre se quiser usar essa instalação do Simulador. Pode ser adicionado ao .bashrc para praticidade extra
  
 <code>roslaunch uuv_gazebo_worlds ocean_waves.launch</code> //Para testar se tudo está funcionando
