@@ -4,3 +4,6 @@
 [submodule "src/Mandi2repo"]
 	path = src/Mandi2repo
 	url = https://github.com/lmartim4/Mandi2.git
+[submodule "src/uuv_simulation_evaluation"]
+	path = src/uuv_simulation_evaluation
+	url = https://github.com/lmartim4/uuv_simulation_evaluation.git
