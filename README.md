@@ -13,6 +13,8 @@ Escolha a opção '1' para instalar o ROS completo
 
 <code>git clone https://github.com/lmartim4/Mandi2-Simulador.git</code>
 
+<code>cd Mandi2-Simulador/</code>
+
 <code>git submodules init</code>
 
 <code>git submodules update</code>
