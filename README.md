@@ -16,3 +16,7 @@ Escolha a opção '1' para instalar o ROS completo
 <code>cd Mandi2-Simulador/</code>
 
 <code>catkin_make //5 vezes até dar certo</code>
+
+<code>source devel/setup.bash</code>
+ 
+<code>roslaunch uuv_gazebo_worlds ocean_waves.launch</code> //Para testar se tudo está funcionando
