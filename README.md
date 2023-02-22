@@ -11,7 +11,7 @@ Escolha a opção '1' para instalar o ROS completo
 
 <code>sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential -y</code>
 
-<code>git clone https://github.com/lmartim4/Mandi2-Simulador.git</code>
+<code>git clone --recurse-submodules https://github.com/lmartim4/Mandi2-Simulador.git</code>
 
 <code>cd Mandi2-Simulador/</code>
 
