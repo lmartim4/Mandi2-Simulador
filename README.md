@@ -20,6 +20,9 @@ Escolha a opção '1' para instalar o ROS completo
 <code>source devel/setup.bash</code> //Esse comando deve ser executado sempre se quiser usar essa instalação do Simulador. Pode ser adicionado ao .bashrc para praticidade extra
  
 <code>roslaunch uuv_gazebo_worlds ocean_waves.launch</code> //Para testar se tudo está funcionando
+
 <code>roslaunch uuv_descriptions upload_rexrov.launch mode:=default x:=0 y:=0 z:=-20 namespace:=rexrov</code>
+
 <code>roslaunch uuv_control_cascaded_pid joy_velocity.launch uuv_name:=rexrov model_name:=rexrov joy_id:=0</code>
+
 <code>roslaunch uuv_teleop uuv_keyboard_teleop.launch uuv_name:=rexrov2<code>
